@@ -13,7 +13,6 @@ for i = 1, quantidade do
     end
 end
 
--- imprime os números pares
 print("Os numeros pares são: " )
 for i = 1,  quantPares do
     print(pares[i])
