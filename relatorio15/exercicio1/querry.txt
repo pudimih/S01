@@ -1,0 +1,1 @@
+disciplina(D, 4, matematica), \+ prerequisito(_, D).
